@@ -9,7 +9,9 @@ You can automate your Aquascape Lamp with ESP-based Microcontroller and some rel
 How To Use:
 .
 > buy some 1 channel relay, ESP based Microcontroller ( I use WeMos D1 Mini ESP8266 hehre )
+.
 > download the binary firmware/files
+.
 > download and use ESPHome Flasher (https://github.com/esphome/esphome-flasher/releases/tag/1.4.0) to upload the firmware / you can use any flasher you want.
 .
 bad news, I think I've lost the source files, I'll update it if I found it.
