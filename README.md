@@ -15,4 +15,4 @@
 
 <br />bad news, I think I've lost the source files, I'll update it if I found it.
 
-<br />**AND PLEASE DON'T SELL IT WITH YOUR OWN BRAND AND USE THIS AS YOUR PRODUCT / DON'T COMMERCIALIZE THIS PRODUCT WITHOUT MY CONSENT. *sounds weird right? but yes people does this in country where I live, lol...**
+<br />**AND PLEASE DON'T SELL IT WITH YOUR OWN BRAND AND USE THIS AS YOUR PRODUCT / DON'T COMMERCIALIZE THIS AS PRODUCT WITHOUT MY CONSENT. *sounds weird right? but yes people does this in country where I live, lol...**
